@@ -6,6 +6,7 @@ public class Program {
 		
 		System.out.println("Boa noite! Testando alterações pra commitar");
 		System.out.println("Bom dia!");
+		System.out.println("Boa tarde!");
 	}
 
 }
